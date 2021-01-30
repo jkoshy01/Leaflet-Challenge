@@ -99,6 +99,6 @@ d3.json(queryUrl, function(data) {
       return div;
     };
   
-    // Finally, we our legend to the map.
+    // Finally,  legend to the map.
     legend.addTo(myMap);
   });
